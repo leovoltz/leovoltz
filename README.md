@@ -1,27 +1,35 @@
+## Hey, I'm Leonardo 👋
 
-## Olá! Eu sou o Leonardo Pereira ✌️
+I'm an IT Support / NOC Professional and Backend Developer, currently based in Dublin, Ireland.
 
-- 🖥️ Atualmente estou estudando bastante sobre tecnologia, como:
-- 🐍 Python, HTML5, CSS3, Bancos de dados relacionais e não relacionais, desenvolvimento de softwares, design patterns, etc...
+- 💻 Background in Technical Support (Junior → Senior) and NOC operations  
+- 🐍 Python automation for logs, reporting and operational workflows  
+- 🌐 Backend: FastAPI, Flask, Django, REST APIs, SQL databases  
+- 📡 Monitoring: Grafana, Zabbix, networking basics (DNS, DHCP, TCP/IP)  
+- 🎯 Goal: combine IT Support, NOC and automation to reduce manual work and improve reliability
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethical-leonardo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/littletexugo)
+### 🔧 Tech Stack
 
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=leovoltz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovoltz&layout=compact&langs_count=16&theme=tokyonight)
+- **Languages:** Python, JavaScript, Bash, SQL  
+- **Backend:** FastAPI, Flask, Django, Node.js  
+- **Infra & Monitoring:** Linux, Docker, Grafana, Zabbix  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Tools:** Git, GitHub, VSCode
 
-### Tecnologias que uso no meu dia:
+### 🚀 Highlighted Projects
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="nodejs" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img align="center" alt="flask" src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</div><br/>
+- [`log-monitor-automation`](https://github.com/leovoltz/log-monitor-automation)  
+  Python-based log monitoring and automation tool simulating a NOC workflow.
 
-Apaixonado por tecnologia, segurança e por aprender coisas novas .
+- [`dundie-api`](https://github.com/leovoltz/dundie-api)  
+  REST API project for learning backend patterns and clean architecture.
 
+- [`ansible-django-deploy`](https://github.com/leovoltz/ansible-django-deploy)  
+  Experiment deploying a Django app using Ansible and automation.
 
+- [`barber-schedule`](https://github.com/leovoltz/barber-schedule)  
+  Appointment scheduling app (barbershop SaaS-style) using Python and web technologies.
+
+---
+
+Always open to feedback, collaboration and new opportunities.
